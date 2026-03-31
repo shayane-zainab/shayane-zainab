@@ -11,11 +11,17 @@
 
   <br>
 
-  <a href="https://www.linkedin.com/in/shayane-zainab/">
-    <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/shayane-zainab/">
+      <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="https://shayane.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-ea999c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
 
-  <br><br>
+  <br>
 
   <img src="https://komarev.com/ghpvc/?username=shayane-zainab&label=Profile%20views&color=FFB6C1&style=flat" alt="Profile views" />
 
