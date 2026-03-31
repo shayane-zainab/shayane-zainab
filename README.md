@@ -1,56 +1,73 @@
-## Hi there 👋
-
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="250" alt="Cute pastel coding gif"/>
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="280" alt="Cute pastel coding gif"/>
 
-  <h1>Hi there, I'm Shayane Zainab 🌸</h1>
+  <h1>Hi there, I'm Shayane Zainab 🎀</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=D1495B&center=true&vCenter=true&width=435&lines=Computer+Science+Student;AI+Developer;Building+HRFlux;Exploring+the+World+🌍" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=ea999c&center=true&vCenter=true&width=500&lines=BSCS+Student+at+FAST+NUCES+🎓;Building+Agentic+AI+Chatbots+🤖;AI+Developer+&+Enthusiast+🌸;Developing+HRFlux+System+🚀;Exploring+the+World+🌍" alt="Typing SVG" />
   </a>
-</div>
 
-<p align="center">
+  <br>
+
   <a href="https://www.linkedin.com/in/shayane-zainab/">
     <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
+
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=shayane-zainab&label=Profile%20views&color=FFB6C1&style=flat" alt="Profile views" />
+
+</div>
+
+<br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shayane-zainab&label=Profile%20views&color=FFB6C1&style=flat" alt="Profile views" />
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/dividers/catppuccin_frappe_pink.png" width="100%" />
 </p>
 
 <br>
 
-### 🎀 About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> About Me
 
-- 🎓 I'm a final-year **BSCS student**, graduating in June 2026.
-- 🚀 Currently building **HRFlux**, an AI-powered, multi-agent HR automation system.
+- 🎓 I'm a final-year **BSCS student** at FAST - NUCES, graduating in June 2026.
 - 💼 Previously implemented an **Agentic AI HR Chatbot** during my internship at **Veyn.ai**.
-- 🏆 Certified in **ChatGPT Prompt Engineering for Developers** (OpenAI & DeepLearning.AI).
-- 📚 Currently studying AI Product Development, Software Project Management, Information Security, and Statistical Modeling.
-- 🌍 When I'm away from the keyboard, I love **travelling, exploring**, and working in **event management**.
+- 🏆 Certified in **ChatGPT Prompt Engineering for Developers** & **Preprocessing Unstructured Data for LLM Applications**.
+- 📚 Studying AI Product Development, Software Project Management, and Statistical Modeling.
+- 🌍 When I'm away from the keyboard, I love **travelling, exploring**, and **event management**.
 
 <br>
 
-### 🌸 Tech Stack & Tools
+### ✨ Featured Projects
+
+- 🚀 **HRFlux:** An AI-Powered HR Knowledge & Automation Assistant (Multi-agent system using RAG & LLMs).
+- 🚗 **Autonomous Car Controller:** Hardware & software integration for autonomous navigation.
+- 📱 **Backloggr:** A dedicated mobile application project.
+- 🛒 **Online Marketplace System:** Comprehensive e-commerce platform development.
+
+<br>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Tech Stack & Tools
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-FFD1DC?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/OpenAI-E6E6FA?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/C++-FADADD?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-E6E6FA?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-FFFACD?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <br>
+  <img src="https://img.shields.io/badge/OpenAI-FBCCE7?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Gemini_API-FFB6C1?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Streamlit-FFD1DC?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Git-FADADD?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 <br>
 
-### 🎀 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shayane-zainab&show_icons=true&bg_color=ffe4e1&title_color=d1495b&text_color=4a4a4a&icon_color=d1495b&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shayane-zainab&background=ffe4e1&stroke=d1495b&ring=d1495b&fire=d1495b&currStreakNum=4a4a4a&sideNums=4a4a4a&currStreakLabel=4a4a4a&sideLabels=4a4a4a&dates=4a4a4a&hide_border=true" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/dividers/catppuccin_frappe_pink.png" width="100%" />
 </p>
 
 <br>
 
 <p align="center">
-  <i>Let's connect and build something awesome! ✨</i>
+  <i>Let's connect and build something awesome! ✨🩷</i>
 </p>
