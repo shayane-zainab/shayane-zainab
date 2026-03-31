@@ -1,10 +1,12 @@
+<div style="background-color: #fff0f5; padding: 30px; border-radius: 20px; border: 1px solid #FFD1DC;">
+
 <div align="center">
   <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="280" alt="Cute pastel coding gif"/>
 
   <h1>Hi there, I'm Shayane Zainab 🎀</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=ea999c&center=true&vCenter=true&width=500&lines=BSCS+Student+at+FAST+NUCES+🎓;Building+Agentic+AI+Chatbots+🤖;AI+Developer+&+Enthusiast+🌸;Developing+HRFlux+System+🚀;Exploring+the+World+🌍" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=ea999c&center=true&vCenter=true&width=500&lines=BSCS+Student+at+FAST+NUCES;Building+Agentic+AI+Chatbots;AI+Developer+and+Enthusiast;Developing+HRFlux+System;Exploring+the+World" alt="Typing SVG" />
   </a>
 
   <br>
@@ -21,13 +23,11 @@
 
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/dividers/catppuccin_frappe_pink.png" width="100%" />
-</p>
+<h3 align="center"> ✨ 🌸 🎀 🌸 ✨ </h3>
 
 <br>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> About Me
+### 🎀 About Me
 
 - 🎓 I'm a final-year **BSCS student** at FAST - NUCES, graduating in June 2026.
 - 💼 Previously implemented an **Agentic AI HR Chatbot** during my internship at **Veyn.ai**.
@@ -46,7 +46,7 @@
 
 <br>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Tech Stack & Tools
+### 🌸 Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-FFD1DC?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -62,12 +62,12 @@
 
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/dividers/catppuccin_frappe_pink.png" width="100%" />
-</p>
+<h3 align="center"> ✨ 🌸 🎀 🌸 ✨ </h3>
 
 <br>
 
 <p align="center">
-  <i>Let's connect and build something awesome! ✨🩷</i>
+  <i>Let's connect and build something awesome! 🩷</i>
 </p>
+
+</div> ```
